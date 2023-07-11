@@ -1,36 +1,32 @@
+<div align="center">
+  <h1>👋 Hello, I'm Mriganka Mousum Gogoi! 🚀</h1>
+  <p>Frontend Developer | React.js | Next.js | Tailwind CSS | Sass | TypeScript 🌈</p>
+</div>
 
-# Hi there! I'm Mriganka Gogoi, a front-end developer learning React JS and Next JS.
 
-## About me
+## 📖 About Me
 
-I'm passionate about building beautiful and user-friendly web applications. I'm always learning new things and I'm always up for a challenge.
+👨‍💻 I'm a passionate Frontend Developer with expertise in React.js, Next.js, Tailwind CSS, Sass, and TypeScript. I enjoy creating intuitive and responsive web applications that provide great user experiences. I am constantly learning and exploring new technologies to stay up-to-date with the latest trends in web development.
 
-I'm currently learning React JS and Next JS. I'm also interested in learning other front-end frameworks and technologies, such as Angular, Vue, and Svelte.
+## ⚡️ Skills
 
-## My skills
+💻 React.js | Next.js | Tailwind CSS | Sass | TypeScript | HTML5 | CSS3 | JavaScript | Git | UI/UX Design
 
-* React JS
-* Next JS
-* HTML
-* CSS
-* Sass
-* Tailwind
-* JavaScript
-* TypeScript
-  
 
-## My goals
+## 🌱 What I'm Currently Learning
 
-* Become a proficient React JS and Next JS developer
-* Build beautiful and user-friendly web applications
-* Learn other front-end frameworks and technologies
-* Get a job as a front-end developer
+📚 I'm currently expanding my knowledge in:
 
-## Contact me
+- GraphQL 🌐
+- Redux 🔄
+- Serverless Architecture ⚡️
 
-* [[mail](gogoimriganka09@gmail.com)]
-* [[ LinkedIn profile](https://www.linkedin.com/in/mriganka-gogoi/)]
-* [[Twitter handle](https://twitter.com/_Mriganka_)]
+## 🤝 Let's Connect
 
-## Thanks for reading!
+🌍 I'm always excited to meet and collaborate with fellow developers. Feel free to reach out to me through the following channels:
 
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/mriganka-gogoi/) 💼
+- Email: gogoimriganka09@gmail.com ✉️
+- Twitter: [@YourTwitterHandle](https://twitter.com/_Mriganka_) 🐦
+
+Let's create something amazing together! 😄
