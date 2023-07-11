@@ -1,9 +1,9 @@
 Sure, here is a beautiful README.md for your GitHub profile:
 
 
-# Hi there! I'm [your name], a front-end developer learning React JS and Next JS.
+# Hi there! I'm Mriganka Gogoi, a front-end developer learning React JS and Next JS.
 
-![A photo of you](https://avatars.githubusercontent.com/u/[your GitHub username])
+![A photo of you](https://avatars.githubusercontent.com/u/[Mriganka5137])
 
 ## About me
 
@@ -17,15 +17,11 @@ I'm currently learning React JS and Next JS. I'm also interested in learning oth
 * Next JS
 * HTML
 * CSS
+* Sass
+* Tailwind
 * JavaScript
-* Git
-* GitHub
-
-## My projects
-
-* [My portfolio website](https://[your portfolio website])
-* [A React JS Todo app](https://[your GitHub repository])
-* [A Next JS blog](https://[your GitHub repository])
+* TypeScript
+  
 
 ## My goals
 
@@ -36,13 +32,9 @@ I'm currently learning React JS and Next JS. I'm also interested in learning oth
 
 ## Contact me
 
-* [Your email address]
-* [Your LinkedIn profile]
-* [Your Twitter handle]
+* [gogoimriganka09@gmail.com]
+* [[Your LinkedIn profile](https://www.linkedin.com/in/mriganka-gogoi/)]
+* [[Your Twitter handle](https://twitter.com/_Mriganka_)]
 
 ## Thanks for reading!
 
-
-I've used a few emojis and other features to make the README.md more beautiful and attractive. For example, I've used a photo of you in the header, and I've used emojis to add some personality to the text. I've also used a table of contents to make it easy for people to find what they're looking for.
-
-I hope you like it!
