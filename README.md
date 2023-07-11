@@ -1,5 +1,3 @@
-Sure, here is a beautiful README.md for your GitHub profile:
-
 
 # Hi there! I'm Mriganka Gogoi, a front-end developer learning React JS and Next JS.
 
@@ -32,9 +30,9 @@ I'm currently learning React JS and Next JS. I'm also interested in learning oth
 
 ## Contact me
 
-* [gogoimriganka09@gmail.com]
-* [[Your LinkedIn profile](https://www.linkedin.com/in/mriganka-gogoi/)]
-* [[Your Twitter handle](https://twitter.com/_Mriganka_)]
+* [mail](gogoimriganka09@gmail.com)
+* [[ LinkedIn profile](https://www.linkedin.com/in/mriganka-gogoi/)]
+* [[Twitter handle](https://twitter.com/_Mriganka_)]
 
 ## Thanks for reading!
 
