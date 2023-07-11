@@ -25,8 +25,8 @@
 
 🌍 I'm always excited to meet and collaborate with fellow developers. Feel free to reach out to me through the following channels:
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/mriganka-gogoi/) 💼
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/mriganka-gogoi/) 💼
 - Email: gogoimriganka09@gmail.com ✉️
-- Twitter: [@YourTwitterHandle](https://twitter.com/_Mriganka_) 🐦
+- Twitter: [@TwitterHandle](https://twitter.com/_Mriganka_) 🐦
 
 Let's create something amazing together! 😄
