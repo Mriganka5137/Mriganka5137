@@ -1,9 +1,9 @@
 <div align="center">
   <h1>👋 Hello, I'm Mriganka Mousum Gogoi! 🚀</h1>
   <p>Frontend Developer | React.js | Next.js | Tailwind CSS | Sass | TypeScript 🌈</p>
+  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Mriganka5137&show_icons=true&theme=radical" />
+  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mriganka5137&layout=compact" />
 </div>
-
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📖 About Me
 
