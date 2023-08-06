@@ -1,8 +1,8 @@
 <div align="center">
   <h1>👋 Hello, I'm Mriganka Mousum Gogoi! 🚀</h1>
   <p>Frontend Developer | React.js | Next.js | Tailwind CSS | Sass | TypeScript 🌈</p>
-</div>
 
+</div>
 
 ## 📖 About Me
 
@@ -12,12 +12,12 @@
 
 💻 React.js | Next.js | Tailwind CSS | Sass | TypeScript | HTML5 | CSS3 | JavaScript | Git | UI/UX Design
 
-
 ## 🌱 What I'm Currently Learning
 
 📚 I'm currently expanding my knowledge in:
 
-- GraphQL 🌐
+- React 🌐
+- Next JS
 - Redux 🔄
 - Serverless Architecture ⚡️
 
