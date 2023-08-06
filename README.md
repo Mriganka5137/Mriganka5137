@@ -8,8 +8,6 @@
 
 <br>
 
-## 📖 About Me
-
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
@@ -20,6 +18,9 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 <br>
 
+
+
+## 📖 About Me
 
 👨‍💻 I'm a passionate Frontend Developer with expertise in React.js, Next.js, Tailwind CSS, Sass, and TypeScript. I enjoy creating intuitive and responsive web applications that provide great user experiences. I am constantly learning and exploring new technologies to stay up-to-date with the latest trends in web development.
 
