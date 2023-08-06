@@ -3,6 +3,7 @@
   <p>Frontend Developer | React.js | Next.js | Tailwind CSS | Sass | TypeScript 🌈</p>
 </div>
 
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📖 About Me
 
