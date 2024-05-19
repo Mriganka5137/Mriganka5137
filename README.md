@@ -9,8 +9,6 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 <br>
@@ -23,16 +21,15 @@
 
 ## ⚡️ Skills
 
-💻 React.js | Next.js | Tailwind CSS | Sass | TypeScript | HTML5 | CSS3 | JavaScript | Git | UI/UX Design
+💻 React.js | Next.js | Tailwind CSS  | TypeScript | HTML5 | CSS3 | JavaScript | Git 
 
 ## 🌱 What I'm Currently Learning
 
 📚 I'm currently expanding my knowledge in:
-
-- React 🌐
-- Next JS
-- Redux 🔄
-- Serverless Architecture ⚡️
+- Node.js
+- Postgres
+- MongoDB
+- Data Modelling
 
 
 ## 🤝 Let's Connect
@@ -42,5 +39,6 @@
 - LinkedIn: [Mriganka](https://www.linkedin.com/in/mriganka-gogoi/) 💼
 - Email: gogoimriganka09@gmail.com ✉️
 - Twitter: [@Mriganka](https://twitter.com/_Mriganka_) 🐦
+- Website: [Portfolio](https://mrigankagogoi.com)
 
 Let's create something amazing together! 😄
