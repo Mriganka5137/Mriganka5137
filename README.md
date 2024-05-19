@@ -21,7 +21,14 @@
 
 ## ⚡️ Skills
 
-💻 React.js | Next.js | Tailwind CSS  | TypeScript | HTML5 | CSS3 | JavaScript | Git 
+-  React.js
+-  Next.js
+-  Tailwind CSS
+-  TypeScript
+-  HTML
+-  CSS
+-  JavaScript
+-  Git 
 
 ## 🌱 What I'm Currently Learning
 
