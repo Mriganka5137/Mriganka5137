@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hello, I'm Mriganka Mousum Gogoi! 🚀</h1>
-  <p>Frontend Developer | React.js | Next.js | Tailwind CSS | Sass | TypeScript 🌈</p>
+  <p>Frontend | Full Stack Developer | React.js | Next.js | Tailwind CSS | Sass | TypeScript 🌈</p>
 
 </div>
 
@@ -18,7 +18,7 @@
 
 ## 📖 About Me
 
-👨‍💻 I'm a passionate Frontend Developer with expertise in React.js, Next.js, Tailwind CSS, Sass, and TypeScript. I enjoy creating intuitive and responsive web applications that provide great user experiences. I am constantly learning and exploring new technologies to stay up-to-date with the latest trends in web development.
+👨‍💻 I'm a passionate Frontend | Full Stack Developer with expertise in React.js, Next.js, Tailwind CSS, Sass, and TypeScript. I enjoy creating intuitive and responsive web applications that provide great user experiences. I am constantly learning and exploring new technologies to stay up-to-date with the latest trends in web development.
 
 ## ⚡️ Skills
 
