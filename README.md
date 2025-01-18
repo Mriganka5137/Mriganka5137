@@ -48,6 +48,6 @@
 - LinkedIn: [Mriganka](https://www.linkedin.com/in/mriganka-gogoi/) 💼
 - Email: gogoimriganka09@gmail.com ✉️
 - Twitter: [@Mriganka](https://twitter.com/_Mriganka_) 🐦
-- Website: [Portfolio](https://mrigankagogoi.com)
+- Website: [Portfolio](https://mrigankagogoi.vercel.app)
 
 Let's create something amazing together! 😄
